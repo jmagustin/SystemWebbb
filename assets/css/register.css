@@ -1,0 +1,42 @@
+/* AUTH PAGES */
+body{
+	width: 100%;
+	height:100%;
+	overflow: hidden;
+	background-image: url(../images/LogoMeneses.png);
+	background-size: cover;
+  
+}
+.register-form{
+	position: absolute;
+	width: 100%;
+	height:100%;
+	background-color: rgba(243, 161, 235, 0.7);
+	overflow: auto;
+    
+}
+.auth-content {
+    width: 30%;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: rgb(241, 202, 215);
+    border-radius: 5px;
+    margin-top: 250px;
+    
+  }
+  
+  .auth-content .form-title {
+    text-align: center;
+  }
+  
+  .auth-content form div {
+    margin-bottom: 10px;
+  }
+  
+  .auth-content form p {
+    text-align: center;
+  }
+  
+  .auth-content form p a {
+    text-decoration: underline;
+  }
